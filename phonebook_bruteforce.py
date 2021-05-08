@@ -1,7 +1,7 @@
 import requests
 import os
 
-url = "http://138.68.182.108:30955/login"
+url = "site_url"
 
 
 false_credentials = {'username':'1234', 'password':'1234'}
